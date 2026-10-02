@@ -110,7 +110,7 @@ churn-intervention-rl/
 **1. Clone and install**
 
 ```bash
-git clone https://github.com/your-username/churn-intervention-rl
+git clone https://github.com/calebkress/churn-intervention-rl
 cd churn-intervention-rl
 
 pip install -r requirements.txt
